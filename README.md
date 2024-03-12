@@ -1,19 +1,10 @@
-### Hi there 👋
+### Olá mundo, eu sou a Jennifer 👋
 
-<!--
-**Jennifer0712/Jennifer0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱Estou estudando Análise e Desenvolvimento de sistemas
+- 👯 Atualmente trabalho com Marketing
+- 📫 Contato: jejesilvar@gmail.com
+- 😄 Pronouns: ela/ dela
+- ⚡ Fun fact: Sou apaixonada por leitura e estudo desenvolvimento desde os 7 anos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jenni-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
@@ -34,9 +25,8 @@ Here are some ideas to get you started:
   ##
  
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jejesilvar?igsh=MXV0c3A4bTdjYjZwdg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jejesilvar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jejesilvar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+  </div>
