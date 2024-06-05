@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou a Jennifer 👋
 
 - 🌱Estou estudando Análise e Desenvolvimento de sistemas
-- 👯 Atualmente trabalho com Marketing
+- 👯 Atualmente trabalho como Analista de Sistemas
 - 📫 Contato: jejesilvar@gmail.com
 - 😄 Pronouns: ela/ dela
 - ⚡ Fun fact: Sou apaixonada por leitura e estudo desenvolvimento desde os 7 anos
