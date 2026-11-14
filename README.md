@@ -1,21 +1,4 @@
 ```markdown
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:14213D,100:00F5FF&height=180&section=header&text=JENNIFER%20RODRIGUES&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Backend%20%7C%20Cloud&descAlignY=58&descSize=15" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Inicializando+J.A.R.V.I.S...;Engenharia+de+Software+%7C+Backend;Construindo+sistemas+escalaveis+e+confiaveis;Cloud+%7C+Microsservicos+%7C+Sistemas+Distribuidos" alt="Animação de apresentação" />
-</a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jennifer0712-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/Jennifer0712)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/jejesilvar/)
-[![Email](https://img.shields.io/badge/Email-Contato-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:jejesilvar@gmail.com)
-
-</div>
-
----
 
 ## `> PERFIL DO SISTEMA`
 
