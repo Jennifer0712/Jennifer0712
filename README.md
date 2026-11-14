@@ -178,9 +178,10 @@ Concluído em dezembro de 2022.
 ## `> ATIVIDADE DE CONTRIBUIÇÃO`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jennifer0712&bg_color=050816&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/Jennifer0712/Jennifer0712/output/github-contribution-grid-snake.svg"
+    alt="Animação da cobrinha de contribuições"
+  />
 </div>
 
 ---
